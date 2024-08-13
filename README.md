@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    Download the source code
+    git clone https://github.com/ydv-manoj/time-series-data-visualisation.git
     ```
 
 2. Navigate to the project directory:
